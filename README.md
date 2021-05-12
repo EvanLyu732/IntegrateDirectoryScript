@@ -3,7 +3,7 @@ A python script for comparing the difference between different directory and int
 
 ### Background:
 
-Let's say there are two directory and we called it **A** and **B**. Their Structure like this.
+Let's say there are two directory and we called it **A** and **B**. Their Structure like this:
 
 **A**:
 
