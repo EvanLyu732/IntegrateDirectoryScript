@@ -38,4 +38,20 @@ C
 
 
 ### Usage:
+Basically, this script requires three variables. First directory, second directory and the newest directory
+
+```bash
+python3 IntegerScript.py --help
+
+usage: IntegerScript.py [-h] firdir secdir newdir
+
+positional arguments:
+  firdir      first directory absolute root path
+  secdir      second directory absolute root path
+  newdir      new directory absolute root path
+
+optional arguments:
+  -h, --help  show this help message and exit
+
+```
 
